@@ -41,6 +41,16 @@
 * avatars : [https://avataaars.com/]
 * woobro : [https://woobro.design/]
 * iconsout : [https://iconscout.com/free-illustrations]
+* hand drawing : [https://www.openpeeps.com/]
+* control rocks: [https://control.rocks/]
+* streamline lab : [https://lab.streamlinehq.com/] 
+* pixel true : [https://www.pixeltrue.com/free-illustrations]
+* 3ddd : [https://3ddd.casa/]
+* ui8 kit : [https://ui8.net/emelyanovk/products]
+* shapefest : [https://www.shapefest.com/]
+* lord icon : [https://lordicon.com/]
+* handz design : [https://www.handz.design/]
+* super scene : [https://superscene.pro/]	
 
 
 
